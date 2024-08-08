@@ -21,3 +21,5 @@
 - [Project 2](Link)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=itsmehara.profile)
+
+-- Have -- FUN --
