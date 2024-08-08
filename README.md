@@ -9,3 +9,15 @@
 - 😄 Pronouns: **Its Me HARA**
 - ⚡ Fun fact: **Happy Aspirants Radiant Achievers [ HARA ] Have Fun and Happy Learning**.
 
+### Skills
+- **Languages:** Python, JavaScript, Groovy, Playbooks.
+- **Tools:** Docker, Kubernetes, GitHub Actions, Ansible, AWS, Jenkins.
+
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmehara&show_icons=true)
+
+### Projects
+- [Project 1](Link)
+- [Project 2](Link)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=itsmehara.profile)
