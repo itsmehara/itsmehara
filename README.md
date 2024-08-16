@@ -13,13 +13,18 @@
 
 ### Hi there, I'm Hara 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsmehara&no-bg=true&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+| ![Top Language Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmehara&theme=transparent&exclude=html,CSS,Jupyter%20Notebook) | [![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmehara&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+|-----|-----|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=itsmehara&no-bg=true&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) | ![Hara Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmehara&theme=transparent) |
+
+
+![Hara Summary Cards 3](https://github-readme-streak-stats.herokuapp.com/?user=itsmehara&hide_border=true&theme=transparent)
 
 
 ### GitHub Stats
 ![Hara's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmehara&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmehara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Skills
 - **Languages:** Python, JavaScript, Groovy, Playbooks.
