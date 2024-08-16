@@ -13,7 +13,8 @@
 
 ### Hi there, I'm Hara 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsmehara)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itsmehara&no-bg=true&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### GitHub Stats
 ![Hara's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmehara&show_icons=true&theme=radical)
