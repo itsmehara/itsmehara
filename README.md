@@ -9,7 +9,7 @@
 - 😄 Pronouns: **Its Me HARA**
 - ⚡ Fun fact: **Happy Aspirants Radiant Achievers [ HARA ] Have Fun and Happy Learning**.
 
-
+![](https://komarev.com/ghpvc/?username=itsmehara)
 
 ### Hi There, I'm Hara <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" height="40" align="center" /> ThankYou for visiting my Profile!
 
