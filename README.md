@@ -27,7 +27,16 @@
 ### GitHub Stats
 ![Hara's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmehara&show_icons=true&theme=radical)
 
-
+<details>
+  <summary>Skills</summary>
+- Python Coding
+- DevOps Automating
+- Cloud Migration
+- Problem Solving
+- Web Content Writing
+- Researching $ Learning
+- Drawing and Arts.
+</details>
 
 ### Skills
 - **Languages:** Python, JavaScript, Groovy, Playbooks, Terraform, PowerShell
