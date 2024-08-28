@@ -28,7 +28,7 @@
 
 
 ### Skills
-- **Languages:** Python, JavaScript, Groovy, Playbooks.
+- **Languages:** Python, JavaScript, Groovy, Playbooks, Terraform, PowerShell
 - **Tools:** Docker, Kubernetes, GitHub Actions, Ansible, AWS, Jenkins.
 
 ### Projects
