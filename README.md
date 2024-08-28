@@ -11,6 +11,8 @@
 
 ![](https://komarev.com/ghpvc/?username=itsmehara)
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="400">
+
 ### Hi There, I'm Hara <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" height="40" align="center" /> ThankYou for visiting my Profile!
 
 
