@@ -1,4 +1,4 @@
-## Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+## Hi There <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 - 🔭 I’m currently working on **DevSecOps and AWS Cloud**.
 - 🌱 I’m currently learning **Security aspects of pipelines**.
@@ -11,7 +11,8 @@
 
 
 
-### Hi there, I'm Hara 👋
+### Hi There, I'm Hara <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" height="40" align="center" />
+
 
 | ![Top Language Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmehara&theme=transparent&exclude=html,CSS,Jupyter%20Notebook) | [![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmehara&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |-----|-----|
