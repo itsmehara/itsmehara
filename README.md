@@ -29,6 +29,7 @@
 
 <details>
   <summary>Skills</summary>
+  
 - Python Coding
 - DevOps Automating
 - Cloud Migration
