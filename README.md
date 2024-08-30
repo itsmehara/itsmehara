@@ -9,12 +9,12 @@
 - 😄 Pronouns: **Its Me HARA**
 - ⚡ Fun fact: **Happy Aspirants Radiant Achievers [ HARA ] Have Fun and Happy Learning**.
 
-![](https://komarev.com/ghpvc/?username=itsmehara)
 
 
-### Hi There, I'm Hara <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" height="40" align="center" /> 
 
-| <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="300"> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" height="40" align="center" /> ThankYou for visiting my Profile!|
+### Hi There, I'm Hara <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" height="40" align="center" />  ThankYou for visiting my Profile!
+
+| <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="300"> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" height="40" align="center" />  ![](https://komarev.com/ghpvc/?username=itsmehara) |
 |-----|-----|
 | ![Top Language Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmehara&theme=transparent&exclude=html,CSS,Jupyter%20Notebook) | [![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmehara&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |[![trophy](https://github-profile-trophy.vercel.app/?username=itsmehara&no-bg=true&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) | ![Hara Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmehara&theme=transparent) |
