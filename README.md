@@ -43,7 +43,7 @@
 - **Tools:** Docker, Kubernetes, GitHub Actions, Ansible, AWS, Jenkins.
 
 ### Projects
-- [Project code fun Pynest_updater]([Link](https://github.com/itsmehara/pynest_updater))
+- [Project code fun Pynest_updater](https://github.com/itsmehara/pynest_updater)
 - [Project 2](Link)
 
 -- Have -- FUN --
